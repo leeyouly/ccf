@@ -1,0 +1,291 @@
+body{
+	background-color: #E9E9E9;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	line-height:20px;
+	font-size: 14px;
+	font-family: Tahoma,"Microsoft YaHei","Hiragino Sans GB","WenQuanYi Micro Hei",sans-serif;
+}
+.tableborder {
+	border-top-width: 0px;
+	border-right-width: 30px;
+	border-bottom-width: 0px;
+	border-left-width: 30px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #ffffff;
+	border-right-color: #ffffff;
+	border-bottom-color: #ffffff;
+	border-left-color: #ffffff;
+}
+.home_button_bg{
+	background-image: url(/2010img/home_button_bg.gif);
+	height:34px;
+	background-repeat: repeat-x;
+	background-position: center top;
+	text-align:left;
+	}
+.px12t{
+font-size:12px;
+}
+.tablegrayborder{
+	background-color:#F9F9F9;
+	border: 1px solid #EDEDED;
+	font-size:12px;
+
+}
+
+.px14blu {
+	font-family: Tahoma,"Microsoft YaHei","Hiragino Sans GB","WenQuanYi Micro Hei",sans-serif;
+	font-size: 14px;
+	color: #005699;
+	font-weight:bold;
+}
+.px14blu span a{
+	font-weight:normal;
+	fon-size:12px;
+}
+td{
+font-size:14px;
+line-height:180%;
+}
+.px12{
+font-size:12px;
+}
+a{
+
+color:#000000;
+text-decoration: none;
+}
+a:hover{
+text-decoration: none;
+color:#f60;
+}
+.tableblue {
+	background-color: #90BDD5;
+	font-size: 14px;
+	line-height: 22px;
+}
+.bigtitle {
+	color: #004891;
+	background-color: #CDEEFF;
+	font-weight: bold;
+	line-height: 25px;
+}
+.littletitle {
+	background-color: #F0F0F0;
+	line-height: 25px;
+}
+.tablecon {
+	background-color: #FFFFFF;
+}
+.vip {
+	font-weight: bold;
+	color: #FF0000;
+	line-height: 22px;
+	font-size: 12px;
+}
+.focus{
+background:url(/2010img/nums1.gif) no-repeat left top;
+padding-left:14px;
+margin-left:2px;
+}
+.focus table td{
+	line-height:24px;
+	padding-left:3px;
+}
+
+.greenbgsb{
+font:bold 14px/28px 'ËÎÌו';
+background:green;
+color:#fff;
+}
+.newsviewtext td td{
+	line-height:180%;
+}
+.newsviewtext img{
+	max-width:560px;_width:expression_r((document.documentElement.clientWidth||document.body.clientWidth)<560?"560px":"");
+}
+.even{background:#f7f7f7;}
+.newsviewtext td ol{
+	padding-left:25px;
+}
+.newsviewtext{
+	line-height:180%;
+}
+.newsviewtext p{
+	margin:0;padding:2px 0;
+}
+table.rbtableframe,table.cbtableframe,table.zbtableframe{
+	border:solid 1px #fff;
+	border-spacing:0;
+}
+table.rbtableframe  tr  td,table.cbtableframe  tr  td,table.zbtableframe tr td{
+	padding:2px;
+	border-spacing:0;
+
+}
+.cbheader{
+	border:solid 1px #64a4e1;
+}
+
+.rbtable,.cbtable,.zbtable{
+	border:solid 1px #64a4e1;
+border-spaceing:0;
+border-collapse: collapse;
+}
+
+.rbtable td,.cbtable td,.zbtable td{
+	border:solid 1px #64a4e1;
+
+}
+
+
+.pdfdiv{text-align:center;margin:0 auto;}
+.pdfdiv a{float:left;width:112px;height:30px;font-size:14px;color:#fff;text-align:left;line-height:30px;margin-left:20px;}
+.pdfdiv .readpdf{background:url(/images/2014/read.gif) center center no-repeat;width:70px !important;width:112px;padding-left:42px;margin-left:0;}
+.pdfdiv .downpdf{background:url(/images/2014/down.gif) center center no-repeat;padding-left:34px;width:78px !important;width:112px;}
+.pdfdiv .downsoft{background:url(/images/2014/pdf.gif) center center no-repeat;padding-left:45px;width:105px !important;width:150px;}
+.pdfdiv a:hover{font-weight:bold;}
+
+
+
+
+
+
+ul, li {
+    list-style: outside none none;
+}
+* {
+    
+    padding: 0px;
+    word-wrap: break-word;
+    word-break: break-all;
+}
+
+.divleftwidth982015 {
+    width: 99%;
+    float: left;
+    margin: 5px 0px 5px;
+}
+
+.tablegrayborderthree {
+    background-color: #FFF;
+    font-size: 14px;
+    border-right: 1px solid #EDEDED;
+    border-left: 1px solid #EDEDED;
+    border-bottom: 1px solid #EDEDED;
+    border-width: medium 1px 1px;
+    border-style: none solid solid;
+    border-color: -moz-use-text-color #EDEDED #EDEDED;
+    -moz-border-top-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    border-image: none;
+}
+
+ul.newslist {
+    padding: 2px 5px;
+    clear: both;
+    margin: 0px;
+}
+.tabBox {
+    margin-bottom: 2px;
+}
+
+.tabBox .tabNav {
+    overflow: hidden;
+    background: url("2015img/tabbg.gif") repeat-x scroll 0px 0px transparent;
+    margin-top: 0px;
+    border-right: 0px solid #DADEE1;
+    border-left: 0px solid #C8C8C8;
+    height: 35px;
+}.tabBox .tabNav li {
+    height: 35px;
+    float: left;
+    padding: 0px 10px;
+    cursor: pointer;
+    line-height: 35px;
+    border-right: 1px solid #DADEE1;
+}
+.tabBox .tabNav li.now2015 {
+    background: url("2015img/tabbgh1.gif") repeat-x scroll 0px 0px transparent;
+    margin-left: 0px;
+    padding: 0px 10px;
+    border-right: 1px solid #DADEE1;
+}
+.tabBox .tabNav li.now {
+    background: url("2015img/tabbgh1.gif") repeat-x scroll 0px 0px transparent;
+    margin-left: 0px;
+    border-right: 0px solid #DADEE1;
+}
+
+.tabBox .tabNav20152 {
+    overflow: hidden;
+    background: url("2015img/tabbg.gif") repeat-x scroll 0px 0px transparent;
+    margin: 0px;
+    border-right: 0px solid #DADEE1;
+    height: 35px;
+    border-left: 0px solid #C8C8C8;
+}
+
+.tabBox .tabNav20152 li {
+    height: 35px;
+    float: left;
+    padding: 0px 10px;
+    cursor: pointer;
+    line-height: 35px;
+    border-right: 1px solid #DADEE1;
+}
+.tabBox .tabNav li.now2015 {
+    background: url("2015img/tabbgh1.gif") repeat-x scroll 0px 0px transparent;
+    margin-left: 0px;
+    padding: 0px 10px;
+    border-right: 1px solid #DADEE1;
+}
+.tabBox .tabNav20152 li.now20152 {
+    background: url("2015img/tabbgh1.gif") repeat-x scroll 0px 0px transparent;
+    margin-left: 0px;
+    padding: 0px 10px;
+    border-right: 1px solid #DADEE1;
+}
+.tabBox .tabNav20152 li.now2015hot {
+    background: url("2015img/tabbgh2.gif") repeat-x scroll 0px 0px transparent;
+    margin-left: 0px;
+    padding: 0px 10px;
+    border-right: 1px solid #DADEE1;
+}
+
+.firsttab2015 {
+    color: #060606;
+    font-size: 16px;
+}
+.tabBox .tabCont {
+    display: none;
+    border-right: 0px solid #C8C8C8;
+    border-width: medium 0px 0px;
+    border-style: none solid solid;
+    border-color: -moz-use-text-color #C8C8C8 #C8C8C8;
+    -moz-border-top-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    border-image: none;
+    background: none repeat scroll 0% 0% #FFF;
+}
+
+.newsv12{
+font-size:12px;
+margin-left: 5px;
+}
+
+.save2015
+{
+font-size:12px;
+margin-bottom: 10px;
+}

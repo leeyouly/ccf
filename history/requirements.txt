@@ -1,0 +1,4 @@
+scrapy
+scrapyd
+scrapyd-client
+httplib2
